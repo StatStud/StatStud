@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StatStud
-- 👀 I’m interested in Machine Learning, Deep Learning, and DevOps
+- 👀 I’m interested in Machine Learning, Deep Learning, and MLOps
 - 🌱 I’m currently learning Natural Language Processing
 - 💞️ I’m looking to collaborate on software engineering best practices
 - 📫 How to reach me: ask :)
